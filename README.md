@@ -10,7 +10,7 @@ This repository contains energies obtained using **CF-Flow**, a variational fram
 ## File Naming Convention
 
 Files follow the pattern:
-N$(N)nu$(num)$(denom).txt
+N$(N)_nu$(num)_$(denom).txt
 
 
 where:
