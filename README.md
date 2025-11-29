@@ -5,8 +5,7 @@ This repository contains energies obtained using **CF-Flow**, a variational fram
 ## Directory Structure
 
 - **`gs_energies/`** — ground-state energies (total angular momentum **L = 0**)  
-- **`tg_energies/`** — transport-gap energies at filling  
-The transport-gap data in `tg_energies` is for filling ν = n / (p n + 1), corresponding to total angular momentum L = N / n + n − 1.
+- **`tg_energies/`** —  Energies for states at filling ν = n / (p n + 1), corresponding to total angular momentum L = N / n + n − 1.
 
 ## File Naming Convention
 
